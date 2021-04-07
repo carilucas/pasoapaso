@@ -8,7 +8,7 @@ export const HomeComponent = () => {
       <>
          <div className="row">
             <div className="col-sm-4">
-               <img src={`.${path}/assets/images/01-5-pasos.png`} alt="5 pasos" className="img-fluid logo-pasos" />
+               <img src={`./assets/images/01-5-pasos.png`} alt="5 pasos" className="img-fluid logo-pasos" />
             </div>
             <div className="col-sm-8">
                <h2 className="pink ">Introducción</h2>
